@@ -1,0 +1,162 @@
+[
+{
+"question":"What is 7 + 8?",
+"options":["14","15","16","17"],
+"correct_answer":"15",
+"difficulty":0.1,
+"topic":"Arithmetic",
+"tags":["addition"]
+},
+{
+"question":"What is 12 × 4?",
+"options":["36","44","48","52"],
+"correct_answer":"48",
+"difficulty":0.2,
+"topic":"Arithmetic",
+"tags":["multiplication"]
+},
+{
+"question":"Solve: 3x = 12",
+"options":["2","3","4","6"],
+"correct_answer":"4",
+"difficulty":0.2,
+"topic":"Algebra",
+"tags":["equation"]
+},
+{
+"question":"Solve: x + 7 = 15",
+"options":["6","7","8","9"],
+"correct_answer":"8",
+"difficulty":0.3,
+"topic":"Algebra",
+"tags":["equation"]
+},
+{
+"question":"What is the square root of 144?",
+"options":["10","11","12","13"],
+"correct_answer":"12",
+"difficulty":0.3,
+"topic":"Arithmetic",
+"tags":["square root"]
+},
+{
+"question":"Solve: 2x + 5 = 15",
+"options":["3","4","5","6"],
+"correct_answer":"5",
+"difficulty":0.4,
+"topic":"Algebra",
+"tags":["equation"]
+},
+{
+"question":"If a triangle has angles 60°,60°,60°, it is?",
+"options":["Scalene","Isosceles","Equilateral","Right"],
+"correct_answer":"Equilateral",
+"difficulty":0.4,
+"topic":"Geometry",
+"tags":["triangle"]
+},
+{
+"question":"What is 15% of 200?",
+"options":["20","25","30","35"],
+"correct_answer":"30",
+"difficulty":0.5,
+"topic":"Percentage",
+"tags":["percentage"]
+},
+{
+"question":"Solve: 4x − 8 = 16",
+"options":["4","5","6","7"],
+"correct_answer":"6",
+"difficulty":0.5,
+"topic":"Algebra",
+"tags":["equation"]
+},
+{
+"question":"Area of a circle formula?",
+"options":["πr","πr²","2πr","r²"],
+"correct_answer":"πr²",
+"difficulty":0.5,
+"topic":"Geometry",
+"tags":["circle"]
+},
+{
+"question":"Derivative of x²?",
+"options":["2x","x","x²","1"],
+"correct_answer":"2x",
+"difficulty":0.6,
+"topic":"Calculus",
+"tags":["derivative"]
+},
+{
+"question":"What is log10(100)?",
+"options":["1","2","10","100"],
+"correct_answer":"2",
+"difficulty":0.6,
+"topic":"Logarithm",
+"tags":["log"]
+},
+{
+"question":"Solve: x² = 49",
+"options":["5","6","7","8"],
+"correct_answer":"7",
+"difficulty":0.6,
+"topic":"Algebra",
+"tags":["quadratic"]
+},
+{
+"question":"What is the probability of heads in fair coin?",
+"options":["0.25","0.5","0.75","1"],
+"correct_answer":"0.5",
+"difficulty":0.6,
+"topic":"Probability",
+"tags":["coin"]
+},
+{
+"question":"Integral of 1 dx?",
+"options":["x","1","x²","0"],
+"correct_answer":"x",
+"difficulty":0.7,
+"topic":"Calculus",
+"tags":["integral"]
+},
+{
+"question":"Derivative of sin(x)?",
+"options":["cos(x)","-cos(x)","sin(x)","-sin(x)"],
+"correct_answer":"cos(x)",
+"difficulty":0.7,
+"topic":"Calculus",
+"tags":["trigonometry"]
+},
+{
+"question":"Limit of (1/x) as x → ∞?",
+"options":["0","1","∞","-1"],
+"correct_answer":"0",
+"difficulty":0.8,
+"topic":"Calculus",
+"tags":["limit"]
+},
+{
+"question":"What is the determinant of identity matrix?",
+"options":["0","1","n","-1"],
+"correct_answer":"1",
+"difficulty":0.8,
+"topic":"Linear Algebra",
+"tags":["matrix"]
+},
+{
+"question":"Eigenvalues belong to?",
+"options":["Matrix","Vector","Scalar","Tensor"],
+"correct_answer":"Matrix",
+"difficulty":0.9,
+"topic":"Linear Algebra",
+"tags":["eigenvalue"]
+},
+{
+"question":"Derivative of e^x?",
+"options":["e^x","x","1","ln x"],
+"correct_answer":"e^x",
+"difficulty":1.0,
+"topic":"Calculus",
+"tags":["exponential"]
+}
+]
