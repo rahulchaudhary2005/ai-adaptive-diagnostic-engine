@@ -290,4 +290,5 @@ Manual work was required for:
 
 **Rahul Kumar Chaudhary**
 BTech CSE (AI & ML)
-Full Stack + AI Developer
+AI & ML Engineer with Full Stack (LLMs , NLP , Gen AI , AGentic AI , Opencv , Deep Learning with tensorflow and Pytorch)
+
